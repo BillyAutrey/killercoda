@@ -1,0 +1,11 @@
+{
+    "title": "Bazel Bootcamp",
+    "description": "Exercises to go along with Bazel Bootcamp",
+    "items": [
+      { 
+        "path": "hello-bootcamp",
+        "title": "Hello, Bootcamp!",
+        "description": "In this exercise, we will build our first target"
+     }
+    ]
+  }

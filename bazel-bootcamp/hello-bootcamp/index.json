@@ -1,0 +1,28 @@
+{
+    "title": "Hello, Bootcamp!",
+    "backend": {
+      "imageid": "ubuntu"
+    },
+    "interface": {
+      "layout": "ide"
+    },
+    "details": {
+      "intro": {
+        "text": "hello-bazel.md"
+      },
+      "steps": [
+        {
+          "title": "Create a target",
+          "text": "step1.md"
+        },
+        {
+          "title": "Run the target",
+          "text": "step2.md"
+        },
+        {
+          "title": "Follow-up Questions",
+          "text": "questions.md"
+        }
+      ]
+    }
+}
