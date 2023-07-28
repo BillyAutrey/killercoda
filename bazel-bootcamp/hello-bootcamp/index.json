@@ -23,6 +23,11 @@
           "title": "Follow-up Questions",
           "text": "questions.md"
         }
-      ]
+      ],
+      "assets": {
+        "host01": [
+          {"file": "../code", "target": "~/", "chmod": "+w"}
+        ]
+      }
     }
 }
